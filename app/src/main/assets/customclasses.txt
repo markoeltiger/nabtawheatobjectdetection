@@ -1,0 +1,3 @@
+wheat-Healthy(صحي)
+wheat-septoria(مصاب)
+wheat-striperust(مصاب)
